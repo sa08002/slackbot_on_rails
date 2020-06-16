@@ -1,0 +1,15 @@
+current directory: /Users/oonishitsuyoshisoku/slackbot_on_rails/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+/Users/oonishitsuyoshisoku/.rbenv/versions/2.6.6/bin/ruby -I /Users/oonishitsuyoshisoku/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20200616-59179-1j70s07.rb extconf.rb
+creating Makefile
+
+current directory: /Users/oonishitsuyoshisoku/slackbot_on_rails/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/oonishitsuyoshisoku/slackbot_on_rails/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/oonishitsuyoshisoku/slackbot_on_rails/vender/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200616-59179-uechs1
